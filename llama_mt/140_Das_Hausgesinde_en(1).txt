@@ -1,0 +1,9 @@
+‘Where do you live?’ ‘Near Walpe.’ ‘I live near Walpe, you live near Walpe; the same, the same, let us go together.’ 
+
+‘Do you have a wife? what is your wife’s name?’ ‘Cham.’ ‘My wife Cham, your wife Cham: I live near Walpe, you live near Walpe; the same, the same, let us go together.’ 
+
+‘Do you have a child? what is your child’s name?’ ‘Grind.’ ‘My child Grind, your child Grind: my wife Cham, your wife Cham: I live near Walpe, you live near Walpe; the same, the same, let us go together.’ 
+
+‘Do you have a sheep? what is the name of your sheep?’ ‘Hippodeige.’ ‘My sheep Hippodeige, your sheep Hippodeige: my child Grind, your child Grind: my wife Cham, your wife Cham: I live near Walpe, you live near Walpe; the same, the same, let us go together.’ 
+
+‘Do you have a servant? what is the name of your servant?’ ‘Machmirsrecht.’ ‘My servant Machmirsrecht, your servant Machmirsrecht: my sheep Hippodeige, your sheep Hippodeige: my child Grind, your child Grind: my wife Cham, your wife Cham: I live near Walpe, you live near Walpe; the same, the same, let us go together.’
